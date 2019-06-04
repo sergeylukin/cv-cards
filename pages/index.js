@@ -5,7 +5,7 @@ const Index = props => (
     <h1>Our awesome candidates</h1>
     {props.candidates.map(candidate => (
       <div key={candidate.id} className={ "candidate" }>
-        <p>{ `Hello ${candidate.name}` }</p>
+        <p>{ `Hello ${candidate.CANDIDATE_NAME}` }</p>
         {candidate.experience.length > 0 ?
           <ul>
             {candidate.experience.map(experience => (
@@ -35,7 +35,7 @@ Index.getInitialProps = async function() {
     candidates: data.map((entry, key) => {
       return {
         id: key,
-        name: entry.contact_info.name.formatted_name,
+        CANDIDATE_NAME: entry.contact_info.name.formatted_name,
         experience: entry['experience'].map(experience => {
           return {
             JOB_TITLE: experience.title,
