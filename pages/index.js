@@ -1,11 +1,14 @@
 import fetch from 'isomorphic-unfetch';
 import styled from 'styled-components'
+import moment from 'moment'
 
 const Container = styled.div`
   ${props => props.theme.screens.smallUp} {
     column-count: 2;
     column-gap: 0;
     height: 200%;
+    max-width: 1000px;
+    margin: auto auto;
   }
 `
 
@@ -121,8 +124,14 @@ class Index extends React.Component {
                       if (index < 2 || state.candidatesFullViewToggleMap[candidate.id]) {
                         return (
                           <li key={index}>
-                            <p>Worked as <strong>{experience.JOB_TITLE}</strong></p>
-                            <small>{ `from ${experience.START_DATE} To ${experience.END_DATE}` }</small>
+                            { experience.IS_GAP ?
+                                <p>{`Gap in VC for ${experience.GAP_PERIOD}`}</p>
+                              : (
+                                <div>
+                                  <p>Worked as <strong>{experience.JOB_TITLE}</strong></p>
+                                  <small>{ `from ${experience.START_DATE} To ${experience.END_DATE}` }</small>
+                                </div>
+                              )}
                           </li>
                         )
                       } else {
@@ -157,7 +166,7 @@ Index.getInitialProps = async function() {
 
   console.log(`Data fetched. Count: ${data.length}`);
 
-  return {
+  let myObj = {
     candidates: data.map((entry, key) => {
       return {
         id: key,
@@ -173,6 +182,43 @@ Index.getInitialProps = async function() {
       }
     })
   };
+
+  // add gaps
+  myObj.candidates.forEach((candidate, index) => {
+    if (candidate.experience.length > 0) {
+      let experience = []
+      for (let i = candidate.experience.length - 1; i >= 0; i--) {
+        let current = candidate.experience[i]
+
+        if (i == 0) {
+          experience.push(current)
+        } else {
+          let next = candidate.experience[i-1]
+          let currentEndDate = moment(current.END_DATE),
+              nextStartDate = moment(next.START_DATE)
+
+          let gap_days = nextStartDate.diff(currentEndDate, 'days')
+            if (gap_days > 1) {
+              experience.push(current)
+              experience.push({
+                IS_GAP: true,
+                GAP_PERIOD: nextStartDate.to(currentEndDate, true),
+                JOB_TITLE: 'GAP',
+                START_DATE: current.END_DATE,
+                END_DATE: next.START_DATE,
+              });
+            } else {
+              experience.push(current)
+            }
+        }
+      }
+      myObj.candidates[index].experience = [].concat(experience).reverse()
+    }
+  })
+
+  console.log(myObj)
+
+  return myObj
 };
 
 export default Index;
