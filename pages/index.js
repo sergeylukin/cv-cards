@@ -1,6 +1,9 @@
 import fetch from 'isomorphic-unfetch';
 import styled from 'styled-components'
 import moment from 'moment'
+import getConfig from 'next/config'
+
+const { API_URL } = getConfig().publicRuntimeConfig
 
 const Container = styled.div`
   ${props => props.theme.screens.smallUp} {
@@ -161,10 +164,10 @@ class Index extends React.Component {
 }
 
 Index.getInitialProps = async function() {
-  const res = await fetch('http://hs-resume-data.herokuapp.com/');
+  const res = await fetch(API_URL);
   const data = await res.json();
 
-  console.log(`Data fetched. Count: ${data.length}`);
+  console.log(`Data fetched from ${API_URL}. Total items: ${data.length}`);
 
   let myObj = {
     candidates: data.map((entry, key) => {
@@ -215,8 +218,6 @@ Index.getInitialProps = async function() {
       myObj.candidates[index].experience = [].concat(experience).reverse()
     }
   })
-
-  console.log(myObj)
 
   return myObj
 };

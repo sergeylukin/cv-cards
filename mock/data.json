@@ -1,0 +1,1267 @@
+{
+  "cv-cards": [
+    {
+      "highest_degree": "bachelors",
+      "languages": [
+        {
+          "read": "true",
+          "comments": "[RESUME_LANGUAGE]",
+          "write": "true",
+          "speak": "true",
+          "language_code": "en"
+        }
+      ],
+      "experience": [
+        {
+          "company_normalized_name": "Tower Investments",
+          "last_job": true,
+          "company_name": "Tower Investments Inc",
+          "position_type": "directHire",
+          "duration_in_month": 11,
+          "current_job": false,
+          "title": "Staff Accountant",
+          "start_date": "Jan/01/2008",
+          "same_company": false,
+          "description_short": "1. Prepare Purchase requisitions', Purchase orders and order materials;\n2. Physical count Inventory;\n3. Adjust inventory balances and prices;\n4. Prepare voucher package;\n5. Other administrative duties;",
+          "company_details": {
+            "company_type": "Privately Held",
+            "company": "Tower Investments",
+            "_id": "54aef31217252229a56a86a4",
+            "company_url": "/company/tower-investments?trk=ppro_cprof",
+            "number_of_time_seen": 13,
+            "industry": "Real Estate industry",
+            "size": " 11-50 employees"
+          },
+          "end_date": "Dec/31/2008",
+          "employer_org_name": "Tower Investments Inc",
+          "location": {
+            "region": "PA",
+            "country_code": "US",
+            "municipality": "Philadelphia",
+            "short_display_address": "Philadelphia, PA, US"
+          },
+          "description": "2008 Tower Investments Inc.\t\tPhiladelphia, Pa.\nStaff Accountant:\n1. Prepare Purchase requisitions', Purchase orders and order materials;\n2. Physical count Inventory;\n3. Adjust inventory balances and prices;\n4. Prepare voucher package;\n5. Other administrative duties;"
+        },
+        {
+          "company_normalized_name": "Dale's Tax",
+          "company_name": "Dale's Tax",
+          "position_type": "directHire",
+          "duration_in_month": 11,
+          "current_job": false,
+          "title": "C.P.A.'s",
+          "start_date": "Jan/01/2007",
+          "same_company": false,
+          "description_short": "Staff Accountant:\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow\n5. Prepare Tax returns;\n6. Perform other administrative duties;",
+          "company_details": null,
+          "end_date": "Dec/31/2007",
+          "employer_org_name": "Dale's Tax",
+          "location": {
+            "region": "PA",
+            "country_code": "US",
+            "municipality": "Philadelphia",
+            "short_display_address": "Philadelphia, PA, US"
+          },
+          "description": "2007 Dale's Tax service, C.P.A.'s\t\tPhiladelphia, Pa.\nStaff Accountant:\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow\n5. Prepare Tax returns;\n6. Perform other administrative duties;"
+        },
+        {
+          "company_normalized_name": "TaxTime",
+          "company_name": "TaxTime",
+          "position_type": "directHire",
+          "duration_in_month": 11,
+          "current_job": false,
+          "title": "Tax Preparer",
+          "start_date": "Jan/01/2006",
+          "same_company": false,
+          "description_short": "1. Enter W'2's, 1099, 1098 an other Tax documents into Tax Software\n2. Prepare Tax Returns\n3. Perform other administrative duties",
+          "company_details": null,
+          "end_date": "Dec/31/2006",
+          "employer_org_name": "TaxTime",
+          "location": {
+            "region": "PA",
+            "country_code": "US",
+            "municipality": "Philadelphia",
+            "short_display_address": "Philadelphia, PA, US"
+          },
+          "description": "2006 TaxTime\t\tPhiladelphia, Pa.\nTax Preparer:\n1. Enter W'2's, 1099, 1098 an other Tax documents into Tax Software\n2. Prepare Tax Returns\n3. Perform other administrative duties"
+        },
+        {
+          "company_normalized_name": "Reconcile Bank Statements",
+          "company_name": "Reconcile Bank Statements",
+          "position_type": "directHire",
+          "duration_in_month": 11,
+          "current_job": false,
+          "title": "Staff Accountant",
+          "start_date": "Jan/01/2004",
+          "same_company": true,
+          "description_short": "1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n5. Prepare Tax returns;\n6. Prepare Compilation or Review Report;\n7. Perform other administrative duties;",
+          "company_details": null,
+          "end_date": "Dec/31/2004",
+          "employer_org_name": "Reconcile Bank Statements",
+          "location": {
+            "region": "NY",
+            "country_code": "US",
+            "municipality": "New York",
+            "short_display_address": "New York, NY, US"
+          },
+          "description": "2004 Michael Lee & Company, C.P.A,\t\tNew York, N.Y.\nStaff Accountant:\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n5. Prepare Tax returns;\n6. Prepare Compilation or Review Report;\n7. Perform other administrative duties;"
+        },
+        {
+          "company_normalized_name": "Reconcile Bank Statements",
+          "company_name": "Reconcile Bank Statements",
+          "position_type": "directHire",
+          "duration_in_month": 11,
+          "current_job": false,
+          "title": "Garris & Company, C.P.A",
+          "start_date": "Jan/01/2002",
+          "same_company": true,
+          "description_short": "Staff Accountant;\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n5. Prepare Tax returns;\n6. Perform other administrative duties;",
+          "company_details": null,
+          "end_date": "Dec/31/2002",
+          "employer_org_name": "Reconcile Bank Statements",
+          "location": {
+            "region": "NJ",
+            "country_code": "US",
+            "municipality": "Newark",
+            "short_display_address": "Newark, NJ, US"
+          },
+          "description": "2002 Garris & Company, C.P.A.\t\tNewark N.J.\nStaff Accountant;\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n5. Prepare Tax returns;\n6. Perform other administrative duties;"
+        },
+        {
+          "company_normalized_name": "Reliance Group",
+          "company_name": "Reliance Group",
+          "position_type": "directHire",
+          "duration_in_month": 11,
+          "current_job": false,
+          "title": "C.P.A.'s",
+          "start_date": "Jan/01/2003",
+          "same_company": false,
+          "description_short": "Staff Accountant:\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n5. Prepare Tax returns;\n6. Perform other administrative duties;",
+          "company_details": null,
+          "end_date": "Dec/31/2003",
+          "employer_org_name": "Reliance Group",
+          "location": {
+            "region": "PA",
+            "country_code": "US",
+            "municipality": "Philadelphia",
+            "short_display_address": "Philadelphia, PA, US"
+          },
+          "description": "2003 Reliance Group, C.P.A.'s\t\tPhiladelphia, Pa\nStaff Accountant:\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n5. Prepare Tax returns;\n6. Perform other administrative duties;"
+        },
+        {
+          "company_normalized_name": "Newark Public Schools",
+          "company_name": "Newark Public Schools",
+          "position_type": "directHire",
+          "duration_in_month": 36,
+          "current_job": false,
+          "title": "Staff Accountant",
+          "start_date": "Jan/01/1999",
+          "same_company": false,
+          "description_short": "1. Review vouchers to insure payment;\n2. Analysis, monitor and report expenditures;\n3. Prepare and close out Budgets;\n4. Prepare Journals entries as needed;",
+          "company_details": {
+            "company_type": "Educational Institution",
+            "company": "Newark Public Schools",
+            "_id": "54aef37a17252229a56c986e",
+            "company_url": "/company/newark-public-schools?trk=ppro_cprof",
+            "number_of_time_seen": 384,
+            "industry": "Primary/Secondary Education industry",
+            "size": " 5001-10,000 employees"
+          },
+          "end_date": "Jan/01/2002",
+          "employer_org_name": "Newark Public Schools",
+          "location": {
+            "region": "NJ",
+            "country_code": "US",
+            "municipality": "Newark",
+            "short_display_address": "Newark, NJ, US"
+          },
+          "description": "1999-2002 Newark Public Schools\t\tNewark N.J.\nStaff Accountant: Grant Development\n1. Review vouchers to insure payment;\n2. Analysis, monitor and report expenditures;\n3. Prepare and close out Budgets;\n4. Prepare Journals entries as needed;"
+        },
+        {
+          "company_normalized_name": "New City Transit Authority",
+          "company_name": "New City Transit Authority",
+          "position_type": "directHire",
+          "duration_in_month": 275,
+          "current_job": false,
+          "title": "Staff Accountant",
+          "start_date": "Jan/01/1976",
+          "same_company": false,
+          "description_short": "1. Review vouchers to insure payment;\n2. Records balance and resolve difference;\n3. Compile data and prepare various reports;\n4. Reconcile various general ledger accounts;",
+          "company_details": null,
+          "end_date": "Dec/31/1998",
+          "employer_org_name": "New City Transit Authority",
+          "location": {
+            "region": "NY",
+            "country_code": "US",
+            "municipality": "New York",
+            "short_display_address": "New York, NY, US"
+          },
+          "description": "1976 - 1998 New City Transit Authority\t\tNew York, N.Y.\nStaff Accountant: Accounting Department\n1. Review vouchers to insure payment;\n2. Records balance and resolve difference;\n3. Compile data and prepare various reports;\n4. Reconcile various general ledger accounts;"
+        }
+      ],
+      "extracted_skills": [
+        "tax wise",
+        "tax",
+        "accounting",
+        "quickbooks",
+        "bank statements",
+        "grant development",
+        "air force",
+        "tax returns",
+        "peachtree",
+        "honorable discharge",
+        "public schools",
+        "purchase requisitions",
+        "timberline",
+        "resume",
+        "compilation",
+        "income statement",
+        "fund accounting",
+        "accounting system",
+        "journals",
+        "general ledger",
+        "tax software",
+        "cash flow",
+        "balance sheet",
+        "journal entries",
+        "military",
+        "professional experience",
+        "investments",
+        "purchase orders"
+      ],
+      "education": [
+        {
+          "degree_major": "Accounting",
+          "institution_name": "Herbert H Lehman College",
+          "institution_location": {
+            "region": "NY",
+            "country_code": "US",
+            "municipality": "Bronx",
+            "short_display_address": "Bronx, NY, US"
+          },
+          "degree_type": "bachelors",
+          "normalized_GPA": null,
+          "graduated": null,
+          "degree_minor": null,
+          "end_date": null,
+          "institution_normalized_name": "Herbert H Lehman College",
+          "GPA": null,
+          "institute_type": "university",
+          "degree_level": "bachelors",
+          "graduation_date": null,
+          "description": "Herbert H Lehman College, Bronx NY, B.S in Accounting\n;\nAll parts of C.P.A. Examination Passed\n;\nKnowledge of Taxes\n;",
+          "degree_name": "B.S in Accounting",
+          "institution_details": null,
+          "start_date": null
+        }
+      ],
+      "contact_info": {
+        "location": {
+          "latitude": 40.0124,
+          "longitude": -75.1471
+        },
+        "email": "bowe2450@yahoo.com",
+        "phone": "215-971-5196",
+        "postal_address": {
+          "address_line": "3",
+          "country_code": "US",
+          "postal_code": "19140",
+          "region": "PA",
+          "municipality": "Philadelphia",
+          "short_display_address": "Philadelphia, PA, US"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQku6gcqgV7jDb8OYcDTYWkepnikDE8ykbn6q7wdbYABpP55XNx",
+        "name": {
+          "formatted_name": "Andrew L Bowe",
+          "family_name": "Bowe",
+          "middle_name": "L",
+          "given_name": "Andrew"
+        }
+      },
+      "military_history": null,
+      "skills_text": "Computer Skills:\nMicrosoft word, Excel, Access, QuickBooks, Peachtree, System 3000 (fund accounting), Tax wise, Timberline.",
+      "resume_as_text": "Andrew L Bowe\n3547 N. 21st. Street\nPhiladelphia, PA.\nPhone # 215-971-5196\n\n\nDear Sir or Madam,\n\n\nI am looking for an opportunity to join your workforce as a Staff Accountant: I was working for Tower Investment, Inc. as a Staff Accountant. I am looking for a diversified position that would enhance my accounting knowledge. The attach résumé briefly indicates my experience and capabilities as accountant.\n\n\nThe enclosed resume of course, cannot take the place of an interview: therefore I am looking forward to discussing with you an opportunity to join your firm.\n\n\nRespectfully Yours,\n\n\nAndrew L.Bowe\n\n\nAndrew L Bowe\n3547 N 21st Street\nPhiladelphia Pa. 19140\nPhone # 215-971-5196\nE-Mail: bowe2450@yahoo.com\n\nSalary Requirement: 38,000\nSummary of Qualification\n\nHerbert H Lehman College, Bronx NY, B.S in Accounting;\nAll parts of C.P.A. Examination Passed;\nKnowledge of Taxes;\n\nComputer Skills:\nMicrosoft word, Excel, Access, QuickBooks, Peachtree, System 3000 (fund accounting), Tax wise, Timberline.\n\nProfessional Experience:\n\n2008 Tower Investments Inc. Philadelphia, Pa.\nStaff Accountant:\n 1. Prepare Purchase requisitions', Purchase orders and order materials;\n 2. Physical count Inventory;\n 3. Adjust inventory balances and prices;\n 4. Prepare voucher package;\n 5. Other administrative duties;\n\n2007 Dale's Tax service, C.P.A.'s Philadelphia, Pa.\nStaff Accountant:\n 1. Enter checks and invoice into accounting system;\n 2. Reconcile Bank Statements;\n 3. Prepare journal entries;\n 4. Prepare Income Statement, Balance Sheet and Statement of cash flow\n 5. Prepare Tax returns;\n 6. Perform other administrative duties;\n\n2006 TaxTime Philadelphia, Pa.\nTax Preparer:\n 1. Enter W'2’s, 1099, 1098 an other Tax documents into Tax Software\n 2. Prepare Tax Returns\n 3. Perform other administrative duties\n\n2004 Michael Lee & Company, C.P.A, New York, N.Y.\nStaff Accountant:\n 1. Enter checks and invoice into accounting system;\n 2. Reconcile Bank Statements;\n 3. Prepare journal entries;\n 4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n 5. Prepare Tax returns;\n 6. Prepare Compilation or Review Report;\n 7. Perform other administrative duties;\n\n\n2003 Reliance Group, C.P.A.'s Philadelphia, Pa\nStaff Accountant:\n 1. Enter checks and invoice into accounting system;\n 2. Reconcile Bank Statements;\n 3. Prepare journal entries;\n 4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n 5. Prepare Tax returns;\n 6. Perform other administrative duties;\n\n2002 Garris & Company, C.P.A. Newark N.J.\nStaff Accountant;\n 1. Enter checks and invoice into accounting system;\n 2. Reconcile Bank Statements;\n 3. Prepare journal entries;\n 4. Prepare Income Statement, Balance Sheet and Statement of cash flow;\n 5. Prepare Tax returns;\n 6. Perform other administrative duties;\n\n1999-2002 Newark Public Schools Newark N.J.\nStaff Accountant: Grant Development\n 1. Review vouchers to insure payment;\n 2. Analysis, monitor and report expenditures;\n 3. Prepare and close out Budgets;\n 4. Prepare Journals entries as needed;\n\n1976 - 1998 New City Transit Authority New York, N.Y.\nStaff Accountant: Accounting Department\n 1. Review vouchers to insure payment;\n 2. Records balance and resolve difference;\n 3. Compile data and prepare various reports;\n 4. Reconcile various general ledger accounts;\n\n\nMilitary: 1965 - 1969 U.S. Air Force: Rank: Sgt. Honorable Discharge\n\nReference; Upon Request\n\n\n`",
+      "resume_skills": [
+        {
+          "last_used": "Dec/31/2008",
+          "total_months": "12",
+          "name": "INVENTORY"
+        },
+        {
+          "last_used": "Dec/31/2007",
+          "total_months": "48",
+          "name": "BALANCE SHEET"
+        },
+        {
+          "last_used": "Dec/31/2007",
+          "total_months": "48",
+          "name": "JOURNAL"
+        },
+        {
+          "last_used": "Dec/31/2007",
+          "total_months": "60",
+          "name": "TAX RETURNS"
+        },
+        {
+          "last_used": "Jan/01/2002",
+          "total_months": "312",
+          "name": "VOUCHERS"
+        },
+        {
+          "last_used": "Dec/31/2008",
+          "total_months": "372",
+          "name": "ACCOUNTANT"
+        },
+        {
+          "last_used": "Dec/31/2007",
+          "total_months": "48",
+          "name": "CASH"
+        },
+        {
+          "last_used": "Dec/31/2007",
+          "total_months": "48",
+          "name": "INVOICE"
+        },
+        {
+          "last_used": "Dec/31/2007",
+          "total_months": "324",
+          "name": "ACCOUNTING"
+        },
+        {
+          "last_used": "Dec/31/2008",
+          "total_months": "12",
+          "name": "PURCHASE ORDERS"
+        },
+        {
+          "last_used": "Dec/31/1998",
+          "total_months": "276",
+          "name": "GENERAL LEDGER"
+        },
+        {
+          "last_used": "Jan/01/2002",
+          "total_months": "36",
+          "name": "BUDGETS"
+        }
+      ],
+      "sources": [
+        "sovren"
+      ],
+      "certificate": [
+        {
+          "description": "certification; matched to list",
+          "name": "C.P.A"
+        }
+      ]
+    },
+    {
+      "highest_degree": "bachelors",
+      "skills_text": "Qualifications Summary\n\n• Over 13 years experience in Accounting with a proven performance record, solid work\nethic and commitment to excellence\n\n• Keys to success include strengths in project management, organization, and interpersonal\nabilities\n\n• Computer proficiency especially demonstrated by smooth transitions through\nsystem upgrades and enhancements. Skilled in Fed Advantage, SYMITAR, Synergy,\nand Microsoft Office.\n\n• Detailed, accurate and timely completion of assignments",
+      "extracted_skills": [
+        "ach",
+        "symitar",
+        "solid work ethic",
+        "facility management",
+        "senate",
+        "residential real estate",
+        "human resources",
+        "monthly reporting",
+        "managed accounts",
+        "synergy",
+        "wal-mart",
+        "retail operations",
+        "navy",
+        "accounting",
+        "transitions",
+        "financial reporting",
+        "san",
+        "keys",
+        "adp",
+        "union",
+        "clearing",
+        "reconciliations",
+        "honorable discharge",
+        "debit",
+        "cash management",
+        "tax",
+        "yeoman",
+        "club",
+        "marketing",
+        "depreciation",
+        "payroll",
+        "noc",
+        "cash receipts",
+        "watson",
+        "wire transfers",
+        "general ledger",
+        "project management",
+        "audit",
+        "cash flow",
+        "point of sale",
+        "aaa",
+        "inventory control",
+        "store manager",
+        "accounts payable",
+        "sales tax",
+        "use tax",
+        "payments",
+        "allocations",
+        "real estate",
+        "military",
+        "retail",
+        "interpersonal abilities"
+      ],
+      "certificate": [],
+      "resume_skills": [],
+      "resume_as_text": "Thomas Holland PO Box 760, Bryn Athyn, PA 19009 • 703-220-1128 • twholland888@verizon.net\n\nQualifications Summary\n\n• Over 13 years experience in Accounting with a proven performance record, solid work\nethic and commitment to excellence\n\n• Keys to success include strengths in project management, organization, and interpersonal\n abilities\n\n• Computer proficiency especially demonstrated by smooth transitions through\nsystem upgrades and enhancements. Skilled in Fed Advantage, SYMITAR, Synergy,\nand Microsoft Office.\n\n• Detailed, accurate and timely completion of assignments\n\nExperience\n\nStaff Accountant, ACH Coordinator 2014 - present\nUnited States Senate Federal Credit Union, Alexandria, VA\n\nCash Management responsibilities for posting automated clearing house (ACH) electronic\nfunds transfers (EFT/Federal Reserve) for payroll and debit purchases.Additionally the ACH Coordinator is responsible for research of federal and international wire transfers, check (draft) processing, unauthorized ACH returns and Notices of Corrections (NOC). ACCOMPLISHMENTS INCLUDE:\n\n\t• Seamless transition through major job description changes\n\nAssistant Controller/Staff Accountant 2013 - 2014\nAcademy of the New Church, Bryn Athyn, PA\n\nProvided support in accountancy for multi-million dollar Non-profit educational and\nreligious organization with specific responsibilities in, payroll/benefit administration,\ngeneral ledger, A/P, A/R, depreciation, allocations, reconciliations, reporting, fund transfers, analysis, tax, as well as audit and budget support. ACCOMPLISHMENTS INCLUDED:\n\n• Maintained high level of service and operations through major system changes\n and upgrades\n• Developed tool allocating employment-related costs over extended period\n• Expedited journal voucher process by providing appropriate support data\n• Achieved deadline requirements for the identification sales tax items of\n work-in-process accounts\n\n\nCash Receipts Accountant 2012 - 2013\nWal-Mart Stores, Inc., Warminster, PA\n\nCollected daily cash revenues including electronic transactions. Maintained accurate accounts on customized retail application. ACCOMPLISHMENTS INCLUDED:\n\n• Consistently received positive performance evaluations\n• Promoted from sales associate to cash receipts associate within six weeks\nThomas Holland, page 2\n\nAccounts Payable Accountant 2011 – 2012\nFranklin Systems, Inc., Atlanta, GA\n\nManaged accounts payable for corporation. Reviewed invoices and approved payments; resolved discrepancies; coordinated cash flow requirements for scheduled payables and monthly reporting; administered payroll utilizing ADP.\n\nSales/Membership Representative 2010 - 2011\nAuto Club South (AAA), Atlanta, GA\nGenerated customer leads through brochure distribution and “cold calls,” leading to new accounts.\n\nStore Manager 1989 - 1990\nKobacker Company, San Rafael, CA\n\nDirected retail operations including point of sale marketing, staffing, inventory control, facility management, and financial reporting. Provided other stores with assistance and training of associates.\n\nSales Broker 1986 - 1989\nCentury 21, Broward County, FL\n\nCommercial and residential real estate sales.\n\nMILITARY SERVICE\n\nYeoman Third Class, United States Navy • 1979 - 1983, Honorable Discharge\n\nEDUCATION\n\nDeVry University\t\t\tWatson School of Real Estate\nAtlanta, GA\t\t\t\tTampa, FL\nBS, Accounting 1994\t\t\tInstructor’s License 1990\n\nSanta Fe Community College\nGainesville, FL\nBusiness Courses 1983 -1986\n\nOngoing training: MACHA, ACH Seminars\n\n2004, Human Resources Training certificate program (non-credit),\nBucks County Community College\nBucks County, PA\n\nAnnual Sales & Use Tax Seminar\nExcel Users Seminars\nRockhurst University of Kansas City, Pennsylvania locations",
+      "skill_groups": {
+        "attorney": [
+          "senate"
+        ],
+        "projectmanagement": [
+          "projectmanagement"
+        ],
+        "inventoryplanningandmanagement": [
+          "inventorycontrol",
+          "cashmanagement"
+        ],
+        "locksmith": [
+          "keys"
+        ],
+        "mentalhealth": [
+          "transitions"
+        ],
+        "marketingcommunications": [
+          "marketing"
+        ],
+        "actuarialanalysis": [
+          "watson"
+        ],
+        "storage": [
+          "san"
+        ],
+        "wireandcableinstall/maintain/repair": [
+          "wiretransfers"
+        ],
+        "payrollandbenefitsadministration": [
+          "payroll",
+          "adp"
+        ],
+        "software/systemarchitecture": [
+          "symitar"
+        ],
+        "labor&employmentlaw": [
+          "union"
+        ],
+        "taxaccounting": [
+          "usetax",
+          "salestax",
+          "tax",
+          "depreciation"
+        ],
+        "fitness&sportstraining/instruction": [
+          "club"
+        ],
+        "wholesale/resellingsales": [
+          "pointofsale"
+        ],
+        "store/branchmanagement": [
+          "storemanager"
+        ],
+        "retail/countersalesandcashier": [
+          "walmart"
+        ],
+        "claimsreviewandadjusting": [
+          "allocations"
+        ],
+        "creditmanager": [
+          "debit"
+        ],
+        "general/otherhumanresources": [
+          "humanresources"
+        ],
+        "creditreview/analysis": [
+          "cashflow",
+          "monthlyreporting"
+        ],
+        "project_management": [
+          "projectmanagement"
+        ],
+        "audit": [
+          "audit"
+        ],
+        "realestateappraisal": [
+          "residentialrealestate",
+          "realestate"
+        ],
+        "retailcustomerservice": [
+          "retail",
+          "retailoperations"
+        ],
+        "financialcontrol": [
+          "financialreporting"
+        ],
+        "claimsprocessing": [
+          "payments"
+        ],
+        "general/otheraccounting/finance": [
+          "generalledger"
+        ],
+        "accountspayable/receivable": [
+          "reconciliations",
+          "cashreceipts",
+          "accountspayable"
+        ],
+        "franchisebusinessownership": [
+          "synergy"
+        ],
+        "bankteller": [
+          "clearing",
+          "ach"
+        ],
+        "technicalcustomerservice": [
+          "interpersonalabilities",
+          "solidworkethic"
+        ],
+        "security": [
+          "aaa"
+        ],
+        "militarycombat": [
+          "yeoman"
+        ],
+        "university": [
+          "san"
+        ],
+        "guestservices/concierge": [
+          "aaa"
+        ]
+      },
+      "contact_info": {
+        "name": {
+          "formatted_name": "Thomas Holland",
+          "family_name": "Holland",
+          "given_name": "Thomas"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3cF4MlqomtuIptSvbEn3QQyhlmdNEB-SAFDzXA7OcdfR2LziVw",
+        "postal_address": {
+          "short_display_address": "Bryn Athyn, PA, US",
+          "region": "PA",
+          "municipality": "Bryn Athyn",
+          "postal_code": "19009",
+          "country_code": "US",
+          "address_line": "PO Box 760"
+        },
+        "resume_name": {
+          "formatted_name": "Thomas Holland",
+          "family_name": "Holland",
+          "given_name": "Thomas"
+        },
+        "phone": "703-220-1128",
+        "location": {
+          "latitude": 40.1367,
+          "longitude": -75.0635
+        },
+        "email": "twholland888@verizon.net"
+      },
+      "military_history": {
+        "country_served": "US",
+        "comments": "Yeoman Third Class, United States Navy • 1979 - 1983, Honorable Discharge"
+      },
+      "experience": [
+        {
+          "current_job": true,
+          "same_company": false,
+          "company_details": null,
+          "duration_in_month": 30,
+          "description": "Staff Accountant, ACH Coordinator 2014 - present\nUnited States Senate Federal Credit Union, Alexandria, VA\n\nCash Management responsibilities for posting automated clearing house (ACH) electronic\nfunds transfers (EFT/Federal Reserve) for payroll and debit purchases.Additionally the ACH Coordinator is responsible for research of federal and international wire transfers, check (draft) processing, unauthorized ACH returns and Notices of Corrections (NOC). ACCOMPLISHMENTS INCLUDE:\n\n• Seamless transition through major job description changes",
+          "end_date": "Jul-12-2016",
+          "title": "Staff Accountant, ACH Coordinator",
+          "position_type": "directHire",
+          "company_name": "United States Senate Federal Credit Union",
+          "employer_org_name": "United States Senate Federal Credit Union",
+          "company_normalized_name": "United States Senate Federal Credit Union",
+          "description_short": "\nCash Management responsibilities for posting automated clearing house (ACH) electronic\nfunds transfers (EFT/Federal Reserve) for payroll and debit purchases.Additionally the ACH Coordinator is responsible for research of federal and international wire transfers, check (draft) processing, unauthorized ACH returns and Notices of Corrections (NOC). ACCOMPLISHMENTS INCLUDE:\n\n• Seamless transition through major job description changes",
+          "start_date": "Jan-01-2014",
+          "location": {
+            "region": "VA",
+            "municipality": "Alexandria",
+            "short_display_address": "Alexandria, VA, US",
+            "country_code": "US"
+          }
+        },
+        {
+          "current_job": false,
+          "same_company": false,
+          "company_details": {
+            "industry": "Education Management industry",
+            "size": " 11-50 employees"
+          },
+          "duration_in_month": 12,
+          "description": "Assistant Controller/Staff Accountant 2013 - 2014\nAcademy of the New Church, Bryn Athyn, PA\n\nProvided support in accountancy for multi-million dollar Non-profit educational and religious organization with specific responsibilities in, payroll/benefit administration,\ngeneral ledger, A/P, A/R, depreciation, allocations, reconciliations, reporting, fund transfers, analysis, tax, as well as audit and budget support. ACCOMPLISHMENTS INCLUDED:\n\n• Maintained high level of service and operations through major system changes\nand upgrades\n• Developed tool allocating employment-related costs over extended period\n• Expedited journal voucher process by providing appropriate support data\n• Achieved deadline requirements for the identification sales tax items of work-in-process accounts",
+          "end_date": "Jan-01-2014",
+          "title": "Assistant Controller/Staff Accountant",
+          "position_type": "directHire",
+          "company_name": "Academy of the New Church",
+          "employer_org_name": "Academy of the New Church",
+          "company_normalized_name": "Academy of the New Church Boys School",
+          "description_short": "\nProvided support in accountancy for multi-million dollar Non-profit educational and religious organization with specific responsibilities in, payroll/benefit administration,\ngeneral ledger, A/P, A/R, depreciation, allocations, reconciliations, reporting, fund transfers, analysis, tax, as well as audit and budget support. ACCOMPLISHMENTS INCLUDED:\n\n• Maintained high level of service and operations through major system changes\nand upgrades\n• Developed tool allocating employment-related costs over extended period\n• Expedited journal voucher process by providing appropriate support data\n• Achieved deadline requirements for the identification sales tax items of work-in-process accounts",
+          "start_date": "May-06-2013",
+          "location": {
+            "region": "PA",
+            "municipality": "Bryn Athyn",
+            "short_display_address": "Bryn Athyn, PA, US",
+            "country_code": "US"
+          }
+        },
+        {
+          "current_job": false,
+          "same_company": false,
+          "company_details": {
+            "industry": "Retail industry",
+            "size": " 10,001+ employees"
+          },
+          "duration_in_month": 12,
+          "description": "Cash Receipts Accountant 2012 - 2013\nWal-Mart Stores, Inc., Warminster, PA\n\nCollected daily cash revenues including electronic transactions. Maintained accurate accounts on customized retail application. ACCOMPLISHMENTS INCLUDED:\n\n• Consistently received positive performance evaluations\n• Promoted from sales associate to cash receipts associate within six weeks",
+          "end_date": "Jan-01-2013",
+          "title": "Cash Receipts Accountant",
+          "position_type": "directHire",
+          "company_name": "Wal-Mart Stores, Inc",
+          "employer_org_name": "Wal-Mart Stores, Inc",
+          "company_normalized_name": "Walmart",
+          "description_short": "\nCollected daily cash revenues including electronic transactions. Maintained accurate accounts on customized retail application. ACCOMPLISHMENTS INCLUDED:\n\n• Consistently received positive performance evaluations\n• Promoted from sales associate to cash receipts associate within six weeks",
+          "start_date": "Jan-01-2012",
+          "location": {
+            "region": "PA",
+            "municipality": "Warminster",
+            "short_display_address": "Warminster, PA, US",
+            "country_code": "US"
+          }
+        },
+        {
+          "current_job": false,
+          "same_company": false,
+          "company_details": null,
+          "duration_in_month": 12,
+          "description": "Accounts Payable Accountant 2011 - 2012\nFranklin Systems, Inc., Atlanta, GA\n\nManaged accounts payable for corporation. Reviewed invoices and approved payments; resolved discrepancies; coordinated cash flow requirements for scheduled payables and monthly reporting; administered payroll utilizing ADP.",
+          "end_date": "Jan-01-2012",
+          "title": "Accounts Payable Accountant",
+          "position_type": "directHire",
+          "company_name": "Franklin Systems, Inc",
+          "employer_org_name": "Franklin Systems, Inc",
+          "company_normalized_name": "Franklin Systems, Inc",
+          "description_short": "\nManaged accounts payable for corporation. Reviewed invoices and approved payments; resolved discrepancies; coordinated cash flow requirements for scheduled payables and monthly reporting; administered payroll utilizing ADP.",
+          "start_date": "Mar-11-2011",
+          "location": {
+            "region": "GA",
+            "municipality": "Atlanta",
+            "short_display_address": "Atlanta, GA, US",
+            "country_code": "US"
+          }
+        },
+        {
+          "current_job": false,
+          "same_company": false,
+          "company_details": null,
+          "duration_in_month": 12,
+          "description": "Sales/Membership Representative 2010 - 2011\nAuto Club South (AAA), Atlanta, GA\nGenerated customer leads through brochure distribution and \"cold calls, \" leading to new accounts.",
+          "end_date": "Jan-01-2011",
+          "title": "Sales/Membership Representative",
+          "position_type": "directHire",
+          "company_name": "Auto Club South",
+          "employer_org_name": "AAA",
+          "company_normalized_name": "Auto Club South",
+          "description_short": "Generated customer leads through brochure distribution and \"cold calls, \" leading to new accounts.",
+          "start_date": "Jan-01-2010",
+          "location": {
+            "region": "GA",
+            "municipality": "Atlanta",
+            "short_display_address": "Atlanta, GA, US",
+            "country_code": "US"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "read": "true",
+          "write": "true",
+          "speak": "true",
+          "comments": "[RESUME_LANGUAGE]",
+          "language_code": "en"
+        }
+      ],
+      "sources": [
+        "sovren"
+      ],
+      "education": [
+        {
+          "degree_name": "BS",
+          "institution_location": {
+            "region": "GA",
+            "municipality": "Atlanta",
+            "short_display_address": "Atlanta, GA, US",
+            "country_code": "US"
+          },
+          "description": "DeVry University\tWatson School of Real Estate\nAtlanta, GA\tTampa, FL\nBS, Accounting 1994\tInstructor's License 1990",
+          "end_date": "Jan-01-1994",
+          "institution_normalized_name": "DeVry University",
+          "graduation_date": "Jan-01-1994",
+          "degree_type": "bachelors",
+          "degree_level": "bachelors",
+          "institution_name": "DeVry University",
+          "GPA": null,
+          "degree_major": "Accounting",
+          "institution_details": null,
+          "normalized_GPA": null,
+          "graduated": null,
+          "institute_type": "university",
+          "start_date": null,
+          "degree_minor": null
+        },
+        {
+          "degree_name": null,
+          "institution_location": {
+            "region": "FL",
+            "municipality": "Gainesville",
+            "short_display_address": "Gainesville, FL, US",
+            "country_code": "US"
+          },
+          "description": "Santa Fe Community College\nGainesville, FL\nBusiness Courses 1983 -1986\n\nOngoing training: MACHA, ACH Seminars",
+          "end_date": "Jan-01-1986",
+          "institution_normalized_name": "Santa Fe Community College",
+          "graduation_date": "Jan-01-1986",
+          "degree_type": "some college",
+          "degree_level": "bachelors",
+          "institution_name": "Santa Fe Community College",
+          "GPA": null,
+          "degree_major": "Business",
+          "institution_details": null,
+          "normalized_GPA": null,
+          "graduated": null,
+          "institute_type": "university",
+          "start_date": "Jan-01-1983",
+          "degree_minor": null
+        },
+        {
+          "degree_name": "certificate",
+          "institution_location": {},
+          "description": "2004, Human Resources Training certificate program (non-credit),\nBucks County Community College\nBucks County, PA\n\nAnnual Sales & Use Tax Seminar\nExcel Users Seminars",
+          "end_date": "Jan-01-2004",
+          "institution_normalized_name": "Bucks County Community College",
+          "graduation_date": "Jan-01-2004",
+          "degree_type": "certification",
+          "degree_level": "certification",
+          "institution_name": "Bucks County Community College",
+          "GPA": null,
+          "degree_major": "Annual Sales & Use Tax Seminar",
+          "institution_details": null,
+          "normalized_GPA": null,
+          "graduated": null,
+          "institute_type": "certificate",
+          "start_date": null,
+          "degree_minor": null
+        },
+        {
+          "degree_name": null,
+          "institution_location": {},
+          "description": "Rockhurst University of Kansas City, Pennsylvania locations",
+          "end_date": null,
+          "institution_normalized_name": "Rockhurst University",
+          "graduation_date": null,
+          "degree_type": null,
+          "institution_name": "Rockhurst University of Kansas City",
+          "GPA": null,
+          "degree_major": null,
+          "institution_details": {
+            "website": "http://www.rockhurst.edu",
+            "country": "United States",
+            "state": "Missouri",
+            "rank": 331
+          },
+          "normalized_GPA": null,
+          "graduated": null,
+          "institute_type": "university",
+          "start_date": null,
+          "degree_minor": null
+        }
+      ]
+    },
+    {
+      "highest_degree": "doctorate",
+      "skills_text": "",
+      "extracted_skills": [
+        "acquisitions",
+        "website design",
+        "scholarships",
+        "corporate finance",
+        "club",
+        "economics",
+        "high school students",
+        "commercial leasing",
+        "financial services",
+        "stars",
+        "search engine optimization",
+        "marketing and promotion",
+        "real estate sales"
+      ],
+      "certificate": [
+        {
+          "name": "C.F.A",
+          "description": "certification; matched to list"
+        },
+        {
+          "name": "Licensed Sales Agent",
+          "description": "certification"
+        }
+      ],
+      "resume_skills": [],
+      "resume_as_text": "Steven McCall\nsteven.mccall@Imperiatech.com\n(856) 404-8375\n\n\nOBJECTIVE\n\nTo become a successful Financial Analyst and begin a long-term career with a leading financial services firm.\n\n\nEDUCATION & RELEVANT SKILLS\n\nRutgers University, School of Business\n\t\t\t\t\t\t\t\t\t\t\t Graduation Date\nBachelor of Science G.P.A. – 3.5\t\t\t\t \t\t May, 2012\nMajor: Finance Major G.P.A. – 3.8\nMinor: Economics G.P.A. is on a 4.0 scale.\n\nC.F.A. Level I Exam\n-Scheduled for 2012\n-1 of 5 sponsored scholarships\nAwarded by John P. Broussard, Ph.D.,\nHead of Finance – Rutgers University\n\nHigh Computer Proficiency\n(Including but not limited to: Microsoft Word, Excel, PowerPoint and Outlook)\n\n\nEXPERIENCE\n\nImperiatech \t\t\t\t\t\t\t 11/09-Present\nOwner / Founder\n*Sustained profitability since company’s inception in 2009.\n*Have managed all finances and purchased/sold over 80 websites to date.\n-Website Design and Support\n-Domain name Sales and Acquisitions\n-Search Engine Optimization, Marketing and Promotion\n\nC.A. Enterprises \t\t\t\t\t\t\t 12/09-09/10\nExecutive Coordinator\n*Worked directly with company’s C.F.O. on a daily basis.\n- Finance and Accounting duties\n- Commercial Leasing and Contracts\n\nPeze & Carroll, Realtors \t\t\t\t\t\t\t 06/08-09/09\nLicensed Sales Agent\n*Set company record for most home listings in a single month.\n-Real Estate Sales\n-Preparation of Agreements of Sale, Contracts, Listing Agreements, etc.\n\n\nHONORS\n\n • N.J. STARS Academic Award Recipient\n • Global Young Leaders Conference – Washington D.C.\n • Who’s Who Among American High School Students – Austin, TX\n\n\nACTIVITIES\n\n • Future Business Leaders of America\n • Rutgers University – Corporate Finance Club.\n • Four- year Varsity Wrestler and Captain",
+      "skill_groups": {
+        "fitness&sportstraining/instruction": [
+          "club"
+        ],
+        "junior/highschool": [
+          "highschoolstudents"
+        ],
+        "software/webdevelopment": [
+          "websitedesign"
+        ],
+        "academicadmissionsandadvising": [
+          "scholarships"
+        ],
+        "financialcontrol": [
+          "financialservices"
+        ],
+        "corporatefinance": [
+          "corporatefinance"
+        ],
+        "recruiting/sourcing": [
+          "searchengineoptimization"
+        ],
+        "events/promotionalmarketing": [
+          "marketingandpromotion"
+        ],
+        "mergersandacquisitions": [
+          "acquisitions"
+        ],
+        "realestateleasing/acquisition": [
+          "commercialleasing",
+          "realestatesales"
+        ],
+        "web/ui/uxdesign": [
+          "websitedesign"
+        ],
+        "hotel/lodgingmanagement": [
+          "stars"
+        ]
+      },
+      "contact_info": {
+        "phone": "(856) 404-8375",
+        "name": {
+          "formatted_name": "Steven McCall",
+          "family_name": "McCall",
+          "given_name": "Steven"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofy-XZcp8n9Ul44sIvICqOGqCNy0f20QnH3F6wsf7ifz0373ycQ",
+        "email": "steven.mccall@Imperiatech.com",
+        "postal_address": {
+          "short_display_address": ""
+        },
+        "resume_name": {
+          "formatted_name": "Steven McCall",
+          "family_name": "McCall",
+          "given_name": "Steven"
+        }
+      },
+      "military_history": null,
+      "experience": [
+        {
+          "current_job": false,
+          "description": "2008 Tower Investments Inc.\t\tPhiladelphia, Pa.\nStaff Accountant:\n1. Prepare Purchase requisitions', Purchase orders and order materials;\n2. Physical count Inventory;\n3. Adjust inventory balances and prices;\n4. Prepare voucher package;\n5. Other administrative duties;",
+          "end_date": "Sep/5/2016",
+          "last_job": true,
+          "employer_org_name": "Tower Investments Inc",
+          "same_company": false,
+          "company_details": {
+            "company_url": "/company/tower-investments?trk=ppro_cprof",
+            "industry": "Real Estate industry",
+            "company_type": "Privately Held",
+            "_id": "54aef31217252229a56a86a4",
+            "number_of_time_seen": 13,
+            "company": "Tower Investments",
+            "size": " 11-50 employees"
+          },
+          "duration_in_month": 11,
+          "title": "Staff Accountant",
+          "position_type": "directHire",
+          "location": {
+            "region": "PA",
+            "municipality": "Philadelphia",
+            "short_display_address": "Philadelphia, PA, US",
+            "country_code": "US"
+          },
+          "company_normalized_name": "Tower Investments",
+          "description_short": "1. Prepare Purchase requisitions', Purchase orders and order materials;\n2. Physical count Inventory;\n3. Adjust inventory balances and prices;\n4. Prepare voucher package;\n5. Other administrative duties;",
+          "start_date": "Feb/01/2010",
+          "company_name": "Tower Investments Inc"
+        },
+        {
+          "current_job": false,
+          "description": "2007 Dale's Tax service, C.P.A.'s\t\tPhiladelphia, Pa.\nStaff Accountant:\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow\n5. Prepare Tax returns;\n6. Perform other administrative duties;",
+          "end_date": "Jan/31/2010",
+          "employer_org_name": "Dale's Tax",
+          "same_company": false,
+          "company_details": null,
+          "duration_in_month": 11,
+          "title": "C.P.A.'s",
+          "position_type": "directHire",
+          "location": {
+            "region": "PA",
+            "municipality": "Philadelphia",
+            "short_display_address": "Philadelphia, PA, US",
+            "country_code": "US"
+          },
+          "company_normalized_name": "Dale's Tax",
+          "description_short": "Staff Accountant:\n1. Enter checks and invoice into accounting system;\n2. Reconcile Bank Statements;\n3. Prepare journal entries;\n4. Prepare Income Statement, Balance Sheet and Statement of cash flow\n5. Prepare Tax returns;\n6. Perform other administrative duties;",
+          "start_date": "Mar/13/2008",
+          "company_name": "Dale's Tax"
+        }
+      ],
+      "languages": [
+        {
+          "read": "true",
+          "write": "true",
+          "speak": "true",
+          "comments": "[RESUME_LANGUAGE]",
+          "language_code": "en"
+        }
+      ],
+      "sources": [
+        "sovren"
+      ],
+      "education": [
+        {
+          "degree_name": "Bachelor of Science",
+          "institution_location": {},
+          "description": "Rutgers University, School of Business\nGraduation Date\nBachelor of Science\tG.P.A. - 3.5\tMay, 2012\nMajor: Finance\tMajor G.P.A. - 3.8\nMinor: Economics\tG.P.A. is on a 4.0 scale.",
+          "end_date": null,
+          "institution_normalized_name": "Rutgers University, School of Business",
+          "graduation_date": null,
+          "degree_type": "bachelors",
+          "degree_level": "bachelors",
+          "institution_name": "Rutgers University, School of Business",
+          "GPA": "3.5",
+          "degree_major": "Finance",
+          "institution_details": null,
+          "normalized_GPA": "0.875",
+          "graduated": null,
+          "institute_type": "university",
+          "start_date": null,
+          "degree_minor": null
+        },
+        {
+          "degree_name": "C.F.A.",
+          "institution_location": {},
+          "description": "C.F.A. Level I Exam\n-Scheduled for 2012\n-1 of 5 sponsored scholarships\nAwarded by John P. Broussard, Ph.D.,\nHead of Finance - Rutgers University\n\nHigh Computer Proficiency\n(Including but not limited to: Microsoft Word, Excel, PowerPoint and Outlook)",
+          "end_date": null,
+          "institution_normalized_name": "Rutgers University",
+          "graduation_date": null,
+          "degree_type": "some post-graduate",
+          "degree_level": "bachelors",
+          "institution_name": "Rutgers University",
+          "GPA": null,
+          "degree_major": "Level I Exam",
+          "institution_details": null,
+          "normalized_GPA": null,
+          "graduated": null,
+          "institute_type": "university",
+          "start_date": null,
+          "degree_minor": null
+        }
+      ]
+    },
+    {
+      "highest_degree": "bachelors",
+      "skills_text": "",
+      "extracted_skills": [
+        "microsoft office programs",
+        "conferences",
+        "public relations",
+        "sole proprietors",
+        "hebrew",
+        "linkedin",
+        "vacation",
+        "car service",
+        "401k",
+        "magazines",
+        "spanish",
+        "accounting",
+        "arabic",
+        "quickbooks",
+        "board of directors",
+        "cell",
+        "arts",
+        "corporate travel",
+        "health & fitness",
+        "dinners",
+        "personnel policies",
+        "social media",
+        "announcements",
+        "languages",
+        "brand marketing",
+        "flights",
+        "asme",
+        "trade publications",
+        "general administration",
+        "administrative support",
+        "fluent in french",
+        "courier",
+        "resume",
+        "office equipment",
+        "marketing",
+        "audio visual",
+        "payroll",
+        "administrative functions",
+        "french",
+        "glamour",
+        "statistics",
+        "food",
+        "financial management",
+        "hotel reservations",
+        "office management",
+        "furniture",
+        "promotions",
+        "gambling",
+        "general administrative",
+        "equipment maintenance",
+        "english translation",
+        "press releases",
+        "publications",
+        "paychex",
+        "newspaper",
+        "intranet",
+        "bookkeeping"
+      ],
+      "certificate": [],
+      "resume_skills": [],
+      "resume_as_text": "To Whom It May Concern,\n\nRecently, LinkedIn omitted the ability for candidates to include a cover letter during the application process thus restricting us to provide only a resume. That said, I have taken the liberty to write a few words about myself as a point of introduction, followed by my resume below.\n\nI am interested in your job posting for an Executive Assistant and I would like to learn more about the opportunity.\n\nThroughout my career, I have maintained high performance standards within a diverse range of administrative functions, illustrated by my past 20 years as an Executive Assistant to C-Level Executives.\n\nI have recently returned to New York from a one year sabbatical and I would welcome the opportunity to meet with you to discuss my qualifications and candidacy in further detail. Thank you for your time and consideration.\n\nSincerely,\nRachel Chonchon\n917-703-0097\n\n\nRACHEL CHONCHON\n350 Central Park West\nNew York, NY 10025\nCell (917) 703-0097\nE-mail: Rachelinejoseph@hotmail.com\n___________________________________________________________________________________\n\nCondé Nast \t\t\t\t\t \t 8/2010 – 4/2012\nExecutive Assistant – SVP/Chief Communications Officer\n\n ▪ Executive Assistant to the SVP/Chief Communications Officer. Interfaced with offices of the Chairman, Chief Executive Officer and President.\n\n ▪ Managed communication affairs for 18 publications including Vogue, Glamour, Vanity Fair, Architectural Digest, Bon Appétit and eleven other national and international magazines.\n\n ▪ Prepared Press Releases and News Announcements for publications. Responsible for scheduling over 40 newspaper and magazine reporters. Maintained Intranet Corporate Calendar\n\n ▪ Prepared quarterly Brand Statistics Portfolios for 18 magazines and senior executives. Statistics comprised of brand awards, nominations, app and digital launches, corporate calendar events, social media updates and milestones.\n\n ▪ Prepared annual report for the Chairman concerning ASME (American Society of Magazine Editors) nominations and awards.\n\nCondé Nast, a division of Advance Publications, operates in 25 countries. In the United States, Condé Nast publishes eighteen consumer magazines, two trade publications and twenty-seven websites.\n______________________________________________________________________________________\n\nEquinox Group Corporation\t\t\t\t 1/2005 - 10/2008\nExecutive Assistant - Chief Executive Officer\n\n ▪ Executive Assistant to the Chief Executive Officer.\n\n ▪ Resolved >85% of corporate issues/matters on behalf of CEO.\n\n ▪ Principal liaison for 45 independent company locations across the United States.\nMaintained executive calendar and contacts for over 300 executives and companies.\n\n ▪ Responsible for domestic and international travel arrangements for CEO and Board of directors.\n\n ▪ Managed general administration, correspondence and corporate office with staff of eight associates and responsible for the receptionist and temporary hires.\n\n ▪ Directed Facilities Department with regard to the corporate office, ordering services, equipment maintenance and catering.\n\nEquinox, dedicated to Health & Fitness. Operating nationally in 10 cities across the United States. A division of the Related Companies.\n\n\nInternet Management Services \t\t\t\t 3/2001 - 11/2004\nExecutive Assistant - Chief Executive Officer\n& Chief Financial Officer\n\n ▪ Executive Assistant to CEO and CFO who were the sole proprietors of the business.\n\n ▪ Established office structure of the start-up business.\n\n ▪ Established general personnel practices and created employee manual for medical benefits, vacation, sick leave and general personnel activities. Prepared payroll system, 401K parameters, financial management of Paychex and corporate travel account.\n\n ▪ Developed systems for telephones, postage, courier, car service, catering accounts, maintained office inventory and managed vendors for office equipment, furniture, supplies, food and meals.\n\n ▪ Maintained calendar, international travel and general administrative functions for CEO and CFO. Scheduled Board meetings, conferences and day-to-day functions with general staff.\n\n ▪ Responsible for personal activities of the business proprietors including business expenses, bookkeeping, vacations, arranged private family travels.\n\nInternet Management Services, an Asian gambling website with offices in New York, Antigua and China.\n______________________________________________________________________________________\n\nBarnes & Noble.com \t\t\t\t\t 1/2000 - 2/2001\nExecutive Assistant - Vice-President of Brand Marketing\n\n ▪ Executive Assistant for Vice-President of Brand Marketing. Provided administrative support for the Director of Public Relations, Director of Marketing and eight additional staff within the department.\n\n ▪ Maintained $12 million department budget with direct interface to Barnes & Noble accounting department.\n\n ▪ Coordinated travel plans, flights, hotel reservations, dinners and lunches. Scheduled internal and off-site meetings, seminars & conferences.\n\n ▪ Arranged weekly marketing meetings and prepared Marketing Department\n Forecast Reports for the Corporate Brand.\n\n ▪ Processed HR paperwork for new employees.\n\n ▪ Planned events to launch book promotions and author signings.\n\nBN.com, online start up for Barnes & Noble. A source of information and sales.\n\n\nEducation & Core Competencies\n\n ▪ Concordia University – Montreal, Canada\n\n ▪ Bachelor of Arts Degree; French and English Translation\n\n ▪ Languages: Fluent in French, Spanish, Hebrew and Arabic\n\n ▪ Supported C-Level Executives; Vice-Presidents, Presidents & Chief Executive Officers\n\n ▪ Handled complexity of 45 independent business units\n\n ▪ Advanced knowledge of Microsoft Office programs\n\n ▪ Bookkeeping, Quickbooks , Raiser’s Edge and Long Fasthand\n\n ▪ Extensive experience in Office Management and Personnel Policies\n\n ▪ Coordinated company events and established audio Visual Conferencing Fuze",
+      "skill_groups": {
+        "financialcontrol": [
+          "financialmanagement"
+        ],
+        "audio/videobroadcast&postproduction": [
+          "audiovisual"
+        ],
+        "translation/interpretation": [
+          "languages",
+          "arabic",
+          "french",
+          "spanish"
+        ],
+        "laboratory/pathology": [
+          "cell"
+        ],
+        "visual/displaymerchandising": [
+          "audiovisual"
+        ],
+        "software/webtraining": [
+          "intranet"
+        ],
+        "messenger/courier": [
+          "courier"
+        ],
+        "mediaandadvertisingsales": [
+          "socialmedia"
+        ],
+        "reservations/ticketing": [
+          "hotelreservations"
+        ],
+        "foodpreparation/cooking": [
+          "dinners"
+        ],
+        "metalfabricationandwelding": [
+          "asme"
+        ],
+        "copywriting/editing": [
+          "newspaper",
+          "quickbooks",
+          "magazines",
+          "publications"
+        ],
+        "marketingcommunications": [
+          "marketing"
+        ],
+        "events/promotionalmarketing": [
+          "promotions",
+          "conferences"
+        ],
+        "payrollandbenefitsadministration": [
+          "payroll",
+          "paychex"
+        ],
+        "flightattendant": [
+          "flights"
+        ],
+        "officemanagement": [
+          "officemanagement",
+          "microsoftofficeprograms"
+        ],
+        "socialservice": [
+          "linkedin"
+        ],
+        "fitness&sportstraining/instruction": [
+          "health&fitness"
+        ],
+        "secretary/executiveassistant": [
+          "boardofdirectors"
+        ],
+        "filing/recordsmanagement": [
+          "bookkeeping"
+        ],
+        "architecture/interiordesign": [
+          "furniture"
+        ],
+        "equipmentoperations": [
+          "equipmentmaintenance",
+          "officeequipment"
+        ],
+        "travelagent/ticketsales": [
+          "vacation",
+          "corporatetravel"
+        ],
+        "brand/productmarketing": [
+          "brandmarketing"
+        ],
+        "general/otheradministrative/clerical": [
+          "generaladministrative"
+        ],
+        "haircutting/styling": [
+          "glamour"
+        ],
+        "mathematical/statisticalresearch": [
+          "statistics"
+        ],
+        "investorandpublic/mediarelations": [
+          "publicrelations",
+          "pressreleases"
+        ],
+        "graphicarts/illustration": [
+          "arts"
+        ],
+        "contractsadministration": [
+          "generaladministration"
+        ],
+        "compensation/benefitspolicy": [
+          "401k",
+          "personnelpolicies"
+        ],
+        "classroomteaching": [
+          "hebrew"
+        ],
+        "bookkeeping": [
+          "quickbooks",
+          "soleproprietors",
+          "bookkeeping"
+        ],
+        "general/othereditorial/writing": [
+          "tradepublications"
+        ]
+      },
+      "contact_info": {
+        "name": {
+          "formatted_name": "Rachel Chonchon",
+          "family_name": "Chonchon",
+          "given_name": "Rachel"
+        },
+        "image_url": "http://i.dailymail.co.uk/i/pix/2016/05/23/22/348B850600000578-3605456-image-m-32_1464040491071.jpg",
+        "postal_address": {
+          "short_display_address": "New York, NY, US",
+          "region": "NY",
+          "municipality": "New York",
+          "postal_code": "10025",
+          "country_code": "US",
+          "address_line": "350 Central Park West"
+        },
+        "resume_name": {
+          "formatted_name": "Rachel Chonchon",
+          "family_name": "Chonchon",
+          "given_name": "Rachel"
+        },
+        "phone": null,
+        "location": {
+          "latitude": 40.8006,
+          "longitude": -73.9653
+        },
+        "email": "Rachelinejoseph@hotmail.com"
+      },
+      "military_history": null,
+      "experience": [],
+      "languages": [
+        {
+          "read": "true",
+          "write": "true",
+          "speak": "true",
+          "comments": "Fluent in French, Spanish, Hebrew and Arabic",
+          "language_code": "fr"
+        },
+        {
+          "read": "true",
+          "write": "true",
+          "speak": "true",
+          "comments": "Fluent in French, Spanish, Hebrew and Arabic",
+          "language_code": "es"
+        },
+        {
+          "read": "true",
+          "write": "true",
+          "speak": "true",
+          "comments": "Fluent in French, Spanish, Hebrew and Arabic",
+          "language_code": "he"
+        },
+        {
+          "read": "false",
+          "write": "false",
+          "speak": "true",
+          "comments": "in French, Spanish, Hebrew and Arabic",
+          "language_code": "ar"
+        },
+        {
+          "read": "true",
+          "write": "true",
+          "speak": "true",
+          "comments": "[RESUME_LANGUAGE]",
+          "language_code": "en"
+        }
+      ],
+      "sources": [
+        "sovren"
+      ],
+      "education": [
+        {
+          "degree_name": "Bachelor of Arts degree",
+          "institution_location": {
+            "municipality": "Montreal",
+            "short_display_address": "Montreal, CA",
+            "country_code": "CA"
+          },
+          "description": "* Concordia University - Montreal, Canada\n\n* Bachelor of Arts Degree\n; French and English Translation",
+          "end_date": null,
+          "institution_normalized_name": "Concordia University",
+          "graduation_date": null,
+          "degree_type": "bachelors",
+          "degree_level": "bachelors",
+          "institution_name": "Concordia University",
+          "GPA": null,
+          "degree_major": "French and English Translation",
+          "institution_details": {
+            "website": null,
+            "state": "Canada",
+            "rank": 467.5
+          },
+          "normalized_GPA": null,
+          "graduated": null,
+          "institute_type": "university",
+          "start_date": null,
+          "degree_minor": null
+        }
+      ]
+    }
+  ]
+}
