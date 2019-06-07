@@ -116,8 +116,8 @@ class Index extends React.Component {
     return (
       <Container>
         {props.candidates.map(candidate => (
-          <Item>
-            <Card key={candidate.id}>
+          <Item key={candidate.id}>
+            <Card>
               <Title>{ candidate.CANDIDATE_NAME }</Title>
               <AvatarExperienceContainer>
                 <Avatar style={{backgroundImage: `url(${candidate.AVATAR_URL})`}} />
@@ -197,8 +197,8 @@ Index.getInitialProps = async function() {
           experience.push(current)
         } else {
           let next = candidate.experience[i-1]
-          let currentEndDate = moment(current.END_DATE),
-              nextStartDate = moment(next.START_DATE)
+          let currentEndDate = moment(current.END_DATE, 'MMM/DD/YYYY'),
+              nextStartDate = moment(next.START_DATE, 'MMM/DD/YYYY')
 
           let gap_days = nextStartDate.diff(currentEndDate, 'days')
             if (gap_days > 1) {
